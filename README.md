@@ -9,8 +9,9 @@
 - 🥇 **1st Prize** at **IDE Bootcamp** - IIM Sambalpur 2024  
 - 🥉 **3rd Prize** at **Tech Intellia 2024**  
 - 🎖️ **Winner of Arduino Hackathon 2023**  
-- ⚡ Shortlisted for **Smart India Hackathon (SIH) 2023 & 2024**  
-- 🌟 **Top 10** at **TiE Pitch**  
+- ⚡ **FINALIST SMART INDIA HACKATHON 2024**  
+- 🌟 **Top 10** at **TiE Pitch Deck 2024**
+- 🌟 **FINALIST** at **INVENTOR CHALLENGE 2024**  
 - 💡 Participated in **Sustain-a-thon 2024** & **TechnoXian Robotics Championship 2024**
 
 ## 🔧 Tech Stack & Skills:
