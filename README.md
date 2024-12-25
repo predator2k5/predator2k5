@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Debangshu Chatterjee!
 
 🎓 **B.Tech CSE, 2nd Year** at the **Institute of Engineering and Management**  
@@ -12,7 +11,7 @@
 - ⚡ **FINALIST SMART INDIA HACKATHON 2024**  
 - 🌟 **Top 10** at **TiE Pitch Deck 2024**
 - 🌟 **FINALIST** at **INVENTOR CHALLENGE 2024**  
-- 💡 Participated in **Sustain-a-thon 2024** & **TechnoXian Robotics Championship 2024**
+- 💡 Participated in **Sustain-a-thon 2024** ,**Flipkart Grid 2024**  & **TechnoXian Robotics Championship 2024**
 
 ## 🔧 Tech Stack & Skills:
 - **Web Dev**: React.js, HTML, CSS, JavaScript  
@@ -26,3 +25,10 @@
 🌱 Always looking to collaborate on exciting tech projects!  
 💬 Let's connect and make something great together!
 
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=predator2k5&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=predator2k5&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=predator2k5&color=blue)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=predator2k5&theme=radical)
