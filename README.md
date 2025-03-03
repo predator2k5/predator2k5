@@ -1,72 +1,78 @@
-Here’s a **revised and enhanced version** of your GitHub README with **more animations**, **updated tech stacks** (including MongoDB, Agile, and Firebase), and a polished layout:
+Here’s an improved and more polished version of your **GitHub README** with better structuring, readability, and aesthetics.
 
 ---
 
-# 👋 Hi, I'm Debangshu Chatterjee!
+# 👋 Hi, I'm **Debangshu Chatterjee**!  
 
-🎓 **B.Tech CSE, 2nd Year** at the **Institute of Engineering and Management**  
-💻 Passionate about **Web Development**, **IoT**, and **Machine Learning**  
-🚀 Aiming to build innovative solutions that bridge technology and real-world challenges!
+🎓 **B.Tech CSE, 2nd Year** at **Institute of Engineering and Management**  
+💡 **Innovator | Developer | Tech Enthusiast**  
+🚀 Passionate about **Web Development, IoT, and Machine Learning**  
+🎯 Aiming to build impactful tech solutions that solve real-world challenges!  
 
 ---
 
-## 🏆 Achievements:
-- 🥇 **2x IDE Bootcamp Winner** (IIM Sambalpur 2024 & Amity University Ranchi)  
+## 🏆 **Achievements & Recognitions**  
+
+- 🥇 **2x IDE Bootcamp Winner** (*IIM Sambalpur 2024* & *Amity University Ranchi*)  
 - 🥉 **3rd Prize** at **Tech Intellia 2024**  
-- 🎖️ **Winner of Arduino Hackathon 2023**  
-- ⚡ **FINALIST SMART INDIA HACKATHON 2024**  
-- 🌟 **Top 10** at **TiE Pitch Deck 2024**  
-- 🌟 **FINALIST** at **INVENTOR CHALLENGE 2024**  
-- 🌟 **FINALIST** at **Yukti Udyam Mahotsav 2024**  
-- 💡 Participated in **Sustain-a-thon 2024**, **Flipkart Grid 2024**, & **TechnoXian Robotics Championship 2024**
+- 🎖️ **Winner** of **Arduino Hackathon 2023**  
+- ⚡ **Finalist** at **Smart India Hackathon 2024**  
+- 🔝 **Top 10** at **TiE Pitch Deck 2024**  
+- 🌟 **Finalist** at **Inventor Challenge 2024**  
+- 🌟 **Finalist** at **Yukti Udyam Mahotsav 2024**  
+- 💡 **Participated in:**  
+  - Sustain-a-thon 2024  
+  - Flipkart Grid 2024  
+  - TechnoXian Robotics Championship 2024  
 
 ---
 
-## 🔧 Tech Stack & Skills:
-- **Web Dev**: React.js, HTML, CSS, JavaScript, MongoDB, Firebase  
-- **IoT**: Smart Waste Bin, Wearable Anti-Tremor Band  
-- **ML**: Applied ML in health-tech projects (tremor severity monitoring)  
-- **Tools**: Arduino, TensorFlow, Unity, Figma  
-- **Databases**: MongoDB, Firebase, MySQL  
-- **Methodologies**: Agile, Scrum  
-- **Soft Skills**: Problem Solving, Leadership, Public Speaking, Team Collaboration  
+## 🛠 **Tech Stack & Skills**  
+
+### 👨‍💻 **Web Development**  
+- React.js, HTML, CSS, JavaScript, Firebase, MongoDB  
+
+### 🔗 **Internet of Things (IoT)**  
+- **Projects:** Smart Waste Bin, Wearable Anti-Tremor Band  
+- **Hardware:** Arduino, NodeMCU, ESP32, Raspberry Pi  
+
+### 🤖 **Machine Learning & AI**  
+- TensorFlow, Keras, Hugging Face, NumPy, Pandas, Scikit-Learn  
+- Applied ML in **health-tech projects** (*Tremor Severity Monitoring, Stress & Anxiety Analysis*)  
+
+### 🛠 **Tools & Frameworks**  
+- **Databases:** MySQL, Firebase, MongoDB  
+- **Software:** Figma, Unity, GitHub, MATLAB  
+- **Methodologies:** Agile, Scrum  
+
+### 🎯 **Soft Skills**  
+- Problem Solving | Leadership | Public Speaking | Team Collaboration  
 
 ---
 
-## 📈 Currently working on:
-- **STEADYSTRIDE** – a platform for real-time monitoring of hand tremors using IoT & ML  
-- Learning advanced **DSA** and **Machine Learning**  
-- Exploring **AI-driven solutions** for healthcare and sustainability  
+## 🚀 **Currently Working On**  
+
+🔹 **STEADYSTRIDE** – IoT & ML-powered platform for real-time hand tremor monitoring  
+🔹 Exploring **AI-driven solutions** in healthcare & sustainability  
+🔹 Enhancing **DSA & Machine Learning** skills  
 
 ---
 
-## 🌱 Always looking to collaborate on exciting tech projects!  
-💬 Let's connect and make something great together!  
+## 📊 **GitHub Stats & Activity**  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=predator2k5&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=predator2k5&theme=radical&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=predator2k5&layout=compact&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=predator2k5&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" width="49%" />
+</p>
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=predator2k5&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=predator2k5&layout=compact&theme=radical&hide_border=true)  
-![Profile Views](https://komarev.com/ghpvc/?username=predator2k5&color=blue&style=flat-square)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=predator2k5&theme=radical&hide_border=true)  
-
-![trophy](https://github-profile-trophy.vercel.app/?username=predator2k5&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)  
-
----
-
-## 🎨 Animations & Fun Stuff
-
-![Snake Animation](https://github.com/predator2k5/predator2k5/blob/output/github-contribution-grid-snake.svg)  
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=predator2k5.predator2k5)  
-
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&width=600&lines=Welcome+to+my+GitHub+Profile!;Let's+build+the+future+together!)  
-
----
-
-## 🔗 Connect with Me
+## 🔗 **Connect with Me**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/debangshu-chatterjee/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/predator2k5)  
@@ -74,24 +80,37 @@ Here’s a **revised and enhanced version** of your GitHub README with **more an
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 **Featured Projects**  
 
-### **STEADYSTRIDE**  
-- A platform for real-time monitoring of hand tremors using IoT & ML.  
-- **Tech Stack**: Arduino, TensorFlow, React.js, Firebase  
+### **🔹 STEADYSTRIDE**  
+- A real-time IoT & ML-based hand tremor monitoring platform  
+- **Tech Stack:** Arduino, TensorFlow, React.js, Firebase  
 
-### **Smart Waste Bin**  
-- IoT-based waste management system for smart cities.  
-- **Tech Stack**: Arduino, NodeMCU, Firebase  
+### **🔹 Smart Waste Bin**  
+- IoT-powered waste management system for smart cities  
+- **Tech Stack:** Arduino, NodeMCU, Firebase  
 
-### **Wearable Anti-Tremor Band**  
-- A wearable device to assist individuals with hand tremors.  
-- **Tech Stack**: Arduino, MPU6050, Bluetooth  
-
----
-
-## 🌟 Let's Build the Future Together!  
+### **🔹 Wearable Anti-Tremor Band**  
+- A wearable device to assist individuals with hand tremors  
+- **Tech Stack:** Arduino, MPU6050, Bluetooth  
 
 ---
 
-This version includes **more animations**, **updated tech stacks**, and a **dynamic layout** to make your GitHub profile visually engaging and professional. Let me know if you’d like further tweaks! 😊
+## 🎨 **Animations & Fun Stuff**  
+
+<p align="center">
+  <img src="https://github.com/predator2k5/predator2k5/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=predator2k5.predator2k5" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&width=600&lines=Welcome+to+my+GitHub+Profile!;Let's+build+the+future+together!" />
+</p>
+
+---
+
+## 🌱 **Let’s Build the Future Together!** 🚀  
+
+---
+
+This improved version enhances readability, aesthetics, and structure while keeping it engaging! Let me know if you need any more tweaks! 😊
