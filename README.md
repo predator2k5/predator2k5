@@ -1,7 +1,3 @@
-Here’s an improved and more polished version of your **GitHub README** with better structuring, readability, and aesthetics.
-
----
-
 # 👋 Hi, I'm **Debangshu Chatterjee**!  
 
 🎓 **B.Tech CSE, 2nd Year** at **Institute of Engineering and Management**  
@@ -113,4 +109,3 @@ Here’s an improved and more polished version of your **GitHub README** with be
 
 ---
 
-This improved version enhances readability, aesthetics, and structure while keeping it engaging! Let me know if you need any more tweaks! 😊
